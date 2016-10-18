@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arogya</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_emotions">EmotionsActivity</string>
+    <string name="title_activity_love">LoveActivity</string>
+    <string name="title_activity_depressed">DepressedActivity</string>
+    <string name="title_activity_depression_question_form">DepressionQuestionForm</string>
+</resources>
